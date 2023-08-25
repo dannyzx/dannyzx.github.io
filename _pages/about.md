@@ -9,7 +9,7 @@ profile:
   image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Duke-NUS, Centre </p>
+    <p>Duke-NUS Medical School, Centre for Quantitative Medicine </p>
     <p>8 College Rd</p>
     <p>Singapore, Singapore 169857</p>
 
