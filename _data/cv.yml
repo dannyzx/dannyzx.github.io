@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Danny D'Agostino
-    - name: Date of Birth
-      value: 14th March 1879
+#    - name: Date of Birth
+#      value: 14th March 1879
     - name: Languages
       value: English, Italian
 
@@ -14,39 +14,39 @@
     - title: PhD
       institution: Sapienza University of Rome, Rome, Italy
       year: 2021
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+#    - title: Federal teaching diploma
+#      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#      year: 1900
+#      description:
+#        - Description 1.
+#        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Fellow
       institution: Duke-NUS Medical School, Singapore, Singapore
-      year: 2023
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: 2023-now
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
     - title: Research Fellow
       institution: National University of Singapore, Singapore, Singapore
       year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+#      description:
+#        - Description 1.
+#        - Description 2.
 
     - title: Research Fellow
       institution: Italian National Research Council, Rome, Italy
@@ -61,37 +61,37 @@
       institution: Italian National Research Council, Rome, Italy
       year: 2016 - 2017
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items: 
+#        - Nobel Prize in Physics 
+#        - Matteucci Medal
+#    - year: 2029
+#      items: 
+#        - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
