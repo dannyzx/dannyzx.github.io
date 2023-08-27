@@ -20,13 +20,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 My research journey is driven by a passion to develop  mathematical models and algorithms, harnessing the power of machine learning and operations research to address real-world problems.
 
-Currently a Research Fellow at Duke-NUS Medical School, I am deeply immersed in advancing AI for healthcare applications. 
+Currently as a Research Fellow at Duke-NUS Medical School, I am deeply immersed in advancing AI for healthcare applications. 
 
 I hold a PhD in Operations Research from Sapienza, the University of Rome, with a focus on Global Optimization. During that time, I was working at the Institute of Marine Engineering at the National Research Council of Italy developing machine learning and deep learning approaches for solving challenges in fluid dynamics.
 
 I undertook an internship at Huawei Ireland Research Centre during my PhD, engaging with timeseries clustering and causal inference. 
 
-I joined the National University of Singapore for a postdoc, where I teamed up with Prof. Shoemaker's group. Here, my research focused explainble AI and supervised dimensionality reduction.
+I joined the National University of Singapore for a postdoc, where I teamed up with Prof. Shoemaker's group. Here, my research focused explainable AI and supervised dimensionality reduction.
 
 As an Italian hailing from Rome, football has been more than a game - it's been a lifelong passion that I've honed through years of team play. Beyond academia, I find solace in strumming the electric guitar, reading books and perfecting the art of cooking, with Italian cuisine holding a special place in my heart.
 
