@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Danny D'Agostino",
-    "label": "Scientist",
+    "label": "Research Fellow",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "dannydagostino at hotmail.com",
+    //"phone": " ",
+    //"url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
