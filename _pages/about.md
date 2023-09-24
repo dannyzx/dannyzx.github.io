@@ -13,9 +13,9 @@ profile:
     <p>8 College Rd</p>
     <p>Singapore, Singapore 169857</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: False  # includes a list of news items
+latest_posts: False  # includes a list of the newest posts
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 My research journey is driven by a passion to develop  mathematical models and algorithms, harnessing the power of machine learning and operations research to address real-world problems.
@@ -26,7 +26,7 @@ I hold a PhD in Operations Research from Sapienza, the University of Rome, with 
 
 I undertook an internship at Huawei Ireland Research Centre during my PhD, engaging with timeseries clustering and causal inference. 
 
-I joined the National University of Singapore for a postdoc, where I teamed up with Prof. Shoemaker's group. Here, my research focused explainable AI and supervised dimensionality reduction.
+I joined the National University of Singapore for a postdoc, under the supervision of Prof. Christine Annette Shoemaker. Here, my research focused explainable AI and supervised dimensionality reduction.
 
 As an Italian hailing from Rome, football has been more than a game - it's been a lifelong passion that I've honed through years of team play. Beyond academia, I find solace in strumming the electric guitar, reading books and perfecting the art of cooking, with Italian cuisine holding a special place in my heart.
 
