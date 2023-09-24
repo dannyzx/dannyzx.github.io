@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Operations Research
       institution: Sapienza University of Rome, Rome, Italy
       year: 2021
 #      description:
@@ -21,12 +21,15 @@
 #          contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
-#    - title: Federal teaching diploma
-#      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#      year: 1900
+    - title: Master's Degree in Management Engineering
+      institution: Sapienza University of Rome, Rome, Italy
+      year: 2017
 #      description:
 #        - Description 1.
 #        - Description 2.
+    - title: Bachelor's Degree in Management Engineering
+      institution: Sapienza University of Rome, Rome, Italy
+      year: 2014
 
 - title: Experience
   type: time_table
