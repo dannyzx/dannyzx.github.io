@@ -22,7 +22,7 @@ My research journey is driven by a passion to develop  mathematical models and a
 
 Currently as a Research Fellow at Duke-NUS Medical School, I am deeply immersed in advancing AI for healthcare applications. 
 
-I hold a PhD in Operations Research from Sapienza, the University of Rome, with a focus on global optimization algorithms. During that time, I was working at the Institute of Marine Engineering at the National Research Council of Italy developing machine learning and deep learning approaches for solving challenges in fluid dynamics.
+I hold a PhD in operations research from Sapienza the University of Rome, with a focus on global optimization algorithms. During that time, I was working at the Institute of Marine Engineering at the National Research Council of Italy developing machine learning and deep learning approaches for solving challenges in fluid dynamics.
 
 I undertook an internship at Huawei Ireland Research Centre during my PhD, engaging with timeseries clustering and causal inference. 
 
